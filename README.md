@@ -10,3 +10,10 @@ The paper entitled : "Advanced myelin water fraction mapping using complex-value
 
 When using our code for research publications, please cite our paper.
 
+## Usage
+
+* train_cmpx_MWF.py : to train the network with the simulated mGRE signals.
+* utils4cmpxtrain.py : functions which are used in train_MWF.py
+
+* test_cmpx_MWF.py : to test the network with the in-vivo mGRE signals.
+* utils4cmpxtest.py : functions which are used in test_MWF.py
