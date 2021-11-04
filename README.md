@@ -4,7 +4,7 @@ Source code to generate MWF and uncertainty from mGRE in-vivo brain data.
 
 ## Submitted Paper
 
-The paper entitled : "Improved multi-echo gradient echo myelin water fraction mapping using complex-valued neural network analysis" was submitted to Magnetic Resonance Imaging.
+The paper entitled : "Improved multi-echo gradient echo myelin water fraction mapping using complex-valued neural network analysis" was submitted to Magnetic Resonance in Medicine.
 
 When using our code for research publications, please cite our paper.
 
