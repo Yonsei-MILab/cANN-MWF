@@ -1,10 +1,10 @@
-## Advanced myelin water fraction mapping using complex-valued neural network with uncertainty estimation
+## Improved multi-echo gradient echo myelin water fraction mapping using complex-valued neural network analysis
 
 Source code to generate MWF and uncertainty from mGRE in-vivo brain data.
 
 ## Submitted Paper
 
-The paper entitled : "Advanced myelin water fraction mapping using complex-valued neural network with uncertainty estimation" was submitted to Neuroimage.
+The paper entitled : "Improved multi-echo gradient echo myelin water fraction mapping using complex-valued neural network analysis" was submitted to Magnetic Resonance Imaging.
 
 When using our code for research publications, please cite our paper.
 
